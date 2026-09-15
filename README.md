@@ -9,7 +9,7 @@ First task of my Data Analysis Internship at Syntecxhub.
 The dashboard highlights three main business KPIs:
 
   KPI                        Value
-  ------------------- ------------
+  
   **Growth Rate**       **77.29%**
   **Total Revenue**       **\$2M**
   **Profit**            **\$175K**
